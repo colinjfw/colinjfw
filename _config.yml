@@ -1,0 +1,31 @@
+title: Colin Walker
+baseurl: ""
+url: "http://coldog.github.io"
+
+navigation_pages:
+  - name: Home
+    link: /
+  - name: Work
+    link: /work
+  - name: Email
+    link: mailto:colinwalker270@gmail.com
+  - name: Blog
+    link: /blog
+  - name: Github
+    link: https://github.com/coldog
+
+collections:
+  work:
+    output: true
+
+source: src
+destination: build
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

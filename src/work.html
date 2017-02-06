@@ -1,0 +1,14 @@
+---
+permalink: "/work/"
+layout: main
+---
+
+{% for post in site.work %}
+  <div class="post">
+    <h4 class="post-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h4>
+    <div class="divider"></div>
+    <p>{{ post.description }}</p>
+  </div>
+{% endfor %}

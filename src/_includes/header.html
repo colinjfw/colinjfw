@@ -1,0 +1,10 @@
+<div id="main-name">
+  <h1 id="main-name-text">Colin Walker</h1>
+  <ul id="page-nav">
+    {% for page in site.navigation_pages %}
+      <li>
+        <a href="{{ page.link }}">{{ page.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
