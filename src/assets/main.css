@@ -51,9 +51,21 @@ main {
   border-bottom: thin solid #ddd;
 }
 
+blockquote {
+  border-left: thick solid #ddd;
+  width: 100%;
+  margin-left: 0;
+  padding-left: 10px;
+  font-style: italic;
+}
+
+.full-post-body {
+   text-align: left;
+}
+
 #main-name-text {
   font-size: 3em;
-  color: #f47c7c;
+  color: rgb(254, 90, 90);
   font-weight: 300;
 }
 
