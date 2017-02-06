@@ -10,7 +10,7 @@ navigation_pages:
   - name: Email
     link: mailto:colinwalker270@gmail.com
   - name: Blog
-    link: /blog
+    link: https://medium.com/@coldog
   - name: Github
     link: https://github.com/coldog
 

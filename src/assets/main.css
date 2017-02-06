@@ -31,7 +31,7 @@ a:hover {
 }
 
 .divider {
-  border-bottom: thick solid #555;
+  border-bottom: 4px solid #999;
   width: 20px;
   margin: auto;
 }
