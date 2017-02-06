@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sudoku Builder
+description: |
+  This sudoku solving algorithm I hope shows off my ability to build and design good data structures and algorithms. I hope to walk you through my thought process and design.
 ---
 
 This sudoku solving algorithm I hope shows off my ability to build and design good data structures and algorithms. I hope to walk you through my thought process and design.

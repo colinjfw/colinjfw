@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Musefind"
+description: |
+  As a software developer at Musefind I have had an amazing opportunity to research graph databases and their impact on businesses like Musefind. For this my work was awarded financial reimbursement from SRED.
 ---
 
 My current job is as a software developer with Musefind. We connect companies with influencers on instagram and other platforms to build strong social media campaigns. My work has revolved around building out the backend analytics platform as well as rebuilding portions of the user interface. I wanted to go through some of the challenges and what I’ve learned here.
 
-One of the biggest challenges and yet one of the most satisfying parts of the job has been how ingrained I have become with the team. Even though I am still a junior developer and haven’t been with the company for more than a couple months, I have had the opportunity to lead projects, hold meetings and manage everything I’ve been working on.
-
 The biggest project I have started has me building out a social media analytics tool using graph databases. This is the first time I have ever jumped into graphs since some basic modelling when I was teaching myself. It has been a lot of fun but also really frustrating at times. Different services just haven’t given us the performance we needed which meant I ended up building my own graph structure in Java. It can only handle some really basic traversals, but it has fit the bill with insert performance which is what we needed.
+
+For this work Musefind was awarded funding from Canada's board of Scientific Research and Experimental Development. This funding was awarded for the unique work done on graph databases.

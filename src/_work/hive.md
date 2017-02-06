@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Hive User Management App"
-description: "Ruby library for automatic graphql api's in rails"
+description: |
+  One of my first projects for real people was building out a management system for the coworking space Hive Vancouver. I built out a simple application that let administrators manage the business.
 ---
 
 This project currently supports over 250 users and organizations that are registered to work in the HiVE’s work sharing space. The project took a mess of Google Docs and allowed management to easily upload them into a cloud based application that took the headaches out of everyday management. Instead of trying to keep track of many different Key Fobs and Mailboxes, management is free to do what they do best.

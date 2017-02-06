@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Fitbit Analyzer"
-description: "Ruby based, Fitbit sleep cycle analyzer."
+description: |
+  I built this project to create a sleep cycle analyzer from my Fitbit data. I am very interested in the change in sleep patterns across people, and I think there is a lot you can tell from someone’s sleep.
 ---
 
 I built this project to create a sleep cycle analyzer from my Fitbit data. I am very interested in the change in sleep patterns across people, and I think there is a lot you can tell from someone’s sleep. Fitbit unfortunately does not calculate sleep cycles, but they do give second level heart rate data and accelerometer data for a person’s sleep. This app combines this data and then applies an algorithm that I built to analyze a person’s sleep. I hope to continue working on this project and promote it once I finalize the algorithm to help people understand their sleep cycles better.
