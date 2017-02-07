@@ -20,8 +20,6 @@ collections:
   work:
     output: true
 
-source: src
-
 permalink: pretty
 
 markdown: kramdown
