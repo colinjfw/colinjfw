@@ -13,15 +13,17 @@ navigation_pages:
     link: https://medium.com/@coldog
   - name: Github
     link: https://github.com/coldog
+  - name: LinkedIn
+    link: https://github.com/coldog
 
 collections:
   work:
     output: true
 
 source: src
-destination: build
 
-# Build settings
+permalink: pretty
+
 markdown: kramdown
 gems:
   - jekyll-feed

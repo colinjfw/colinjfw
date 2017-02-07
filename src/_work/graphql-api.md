@@ -7,10 +7,4 @@ description: |
 
 GraphQL-Api is an opinionated Graphql framework for Rails that supports auto generating queries based on Active Record models and plain Ruby objects.
 
-View the original Medium post here discussing it's usage:
-
-- https://hackernoon.com/graphql-api-with-rails-faab252aaffa#.ufxhlt2l9
-
-View the project on Github Here:
-
-- https://github.com/coldog/graphql-api
+View the original Medium post [here](https://hackernoon.com/graphql-api-with-rails-faab252aaffa#.ufxhlt2l9) discussing it's usage. View the project on Github [here](https://github.com/coldog/graphql-api).
