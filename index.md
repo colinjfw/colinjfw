@@ -5,7 +5,7 @@ layout: main
 
 I am a self taught software developer, a sailor and an avid reader.
 
-I currently work at Musefind, an influencer marketing company. I lead the backend development and contribute heavily to our React based frontend. I also manage our AWS resources and have a heavy focus on devops.
+I currently work at Sendwithus as a platform engineer where I work mainly in Go to scale out a high throughput email delivery platform.
 
 I enjoy working on products end to end, from design to the backend implementation and deployment. I have production experience running Ruby, Rails and Python applications. I also love React and enjoy full stack projects.
 
