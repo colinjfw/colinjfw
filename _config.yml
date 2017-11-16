@@ -7,6 +7,8 @@ navigation_pages:
     link: /
   - name: Work
     link: /work
+  - name: Reading List
+    link: /reading
   - name: Email
     link: mailto:colinwalker270@gmail.com
   - name: Blog

@@ -4,7 +4,7 @@ body {
   background-color: rgb(246, 246, 246);
 }
 
-h1, h2, h3, h4, h5, h6, p, div, a {
+h1, h2, h3, h4, h5, h6, p, div, a, li {
   font-family: Verdana, Geneva, sans-serif;
   font-weight: 100;
   color: #555;
