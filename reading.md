@@ -5,6 +5,7 @@ layout: main
 
 ## Devops
 
+* [SRE Book](https://landing.google.com/sre/book/index.html)
 * [Segment: Post on Terraform and multi account AWS](https://segment.com/blog/rebuilding-our-infrastructure/) -- Oct 7, 2015
 * [Segment: Managing secrets in ECS](https://segment.com/blog/the-right-way-to-manage-secrets/) -- Aug 28, 2017
 * [You are not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) -- Jun 7, 2017
@@ -19,6 +20,7 @@ layout: main
 
 * [CockroachDB: CAP theorem](https://www.cockroachlabs.com/blog/limits-of-the-cap-theorem/) -- Jun 27, 2017
 * [Raft: paper](https://raft.github.io/raft.pdf)
+* [Spanner: CAP theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) -- Dec 14, 2017
 
 ## Docker / Kubernetes
 
@@ -26,7 +28,7 @@ layout: main
 * [Healthchecks in Kubernetes](https://medium.com/spire-labs/utilizing-kubernetes-liveness-and-readiness-probes-to-automatically-recover-from-failure-2fe0314f2b2e) -- Apr 6, 2017
 * [Kubernetes in 2017](https://coreos.com/blog/future-of-kubernetes.html) -- Jan 25, 2017
 
-## Sotfware Design
+## Software Design
 
 * [Stripe: API versioning](https://stripe.com/blog/api-versioning) -- Aug 15, 2017
 * [Stripe: Rate limiting](https://stripe.com/blog/rate-limiters) -- Mar 30, 2017
