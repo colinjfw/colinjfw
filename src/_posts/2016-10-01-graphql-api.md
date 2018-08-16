@@ -5,6 +5,8 @@ description: |
   I am the author of the GraphQL-Api library on Github. I continue to develop this to make it easier to get started with GraphQL on rails.
 ---
 
+> View the original Medium post [here](https://hackernoon.com/graphql-api-with-rails-faab252aaffa#.ufxhlt2l9)/
+
 Graphql is an awesome new technology which is making it easier for client
 
 side developers to iterate quickly and batch together network requests.
@@ -113,5 +115,3 @@ curl -XPOST -d 'query=query {
 ```
 
 You can also run updateBlog mutations as well as updateAuthor mutations. Try deleting an author or blog and see what responses you get back.
-
-> View the Medium post [here](https://hackernoon.com/graphql-api-with-rails-faab252aaffa#.ufxhlt2l9)/

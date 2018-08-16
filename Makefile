@@ -1,9 +1,15 @@
 start:
-	@docker run --rm -d -i \
+	@docker build -t blog .
+
+shell:
+	@docker run --rm -it \
 		--name blog \
 		--workdir /usr/src/app \
 		-p 3000:3000 \
-		-v $$PWD:/usr/src/app ruby:2.4
+		-v $$PWD:/usr/src/app \
+		blog \
+		bash
 
-shell:
-	@docker exec -it blog bash
+release:
+	jekyll build
+	s3_website push

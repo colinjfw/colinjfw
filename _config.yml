@@ -1,12 +1,12 @@
-title: Colin Walker
-baseurl: ""
+title: kodebrew
 url: "https://kodebrew.com"
+bio: Colin Walker | Team lead at Sendwithus. INTJ. Code, devops and coffee.
 
 navigation_pages:
   - name: Home
     link: /
-  - name: Posts
-    link: /posts
+  - name: About
+    link: /about
   - name: Reading List
     link: /reading
   - name: Github
@@ -24,7 +24,3 @@ permalink: pretty
 markdown: kramdown
 gems:
   - jekyll-feed
-
-exclude:
-  - Gemfile
-  - Gemfile.lock

@@ -1,6 +1,10 @@
 <div id="main-name">
-  <h1 id="main-name-text">Colin Walker</h1>
-  <p id="main-subtitle">Software Developer</p>
+  <h1 id="main-name-text">
+    {{ site.title }}
+  </h1>
+  <p id="main-subtitle">
+    {{ site.bio }}
+  </p>
   <ul id="page-nav">
     {% for page in site.navigation_pages %}
       <li>
