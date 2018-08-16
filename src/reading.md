@@ -1,5 +1,5 @@
 ---
-permalink: "/reading"
+permalink: "/reading/"
 layout: main
 ---
 

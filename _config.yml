@@ -1,26 +1,23 @@
 title: Colin Walker
 baseurl: ""
-url: "http://coldog.github.io"
+url: "https://kodebrew.com"
 
 navigation_pages:
   - name: Home
     link: /
-  - name: Work
-    link: /work
+  - name: Posts
+    link: /posts
   - name: Reading List
     link: /reading
-  - name: Email
-    link: mailto:colinwalker270@gmail.com
-  - name: Blog
-    link: https://medium.com/@coldog
   - name: Github
     link: https://github.com/coldog
   - name: LinkedIn
     link: https://www.linkedin.com/in/cjwalker270
+  - name: Twitter
+    link: https://www.twitter.com/kodebrew
 
-collections:
-  work:
-    output: true
+source: src
+destination: dist
 
 permalink: pretty
 

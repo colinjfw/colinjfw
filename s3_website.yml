@@ -1,0 +1,20 @@
+# s3_website.yml
+
+s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
+s3_bucket: kodebrew.com
+
+cache_control:
+  "*": no-cache, no-store
+
+cloudfront_distribution_id: E7XYG4O286YWO
+cloudfront_distribution_config:
+  aliases:
+    quantity: 1
+    items:
+      - kodebrew.com
+
+site: dist
+
+index_document: index.html
+error_document: error.html
