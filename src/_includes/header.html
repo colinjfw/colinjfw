@@ -2,12 +2,12 @@
   <h1 id="main-name-text">
     {{ site.title }}
   </h1>
-  <p id="main-subtitle">
+  <h5 id="main-subtitle">
     {{ site.bio }}
-  </p>
-  <ul id="page-nav">
+  </h5>
+  <ul id="menu">
     {% for page in site.navigation_pages %}
-      <li>
+      <li class="title">
         <a href="{{ page.link }}">{{ page.name }}</a>
       </li>
     {% endfor %}

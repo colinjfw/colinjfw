@@ -9,8 +9,8 @@ description: |
 Serverless is a brand new paradigm. As a web developer initially, the first
 thing that I became used to was `rails new` as a starting point for a project.
 This spun up a set of files, databases and base configuration for working on a
-project. Containerization, VM's and other new developments in the world of 
-devops have challenged how we release software but none have significantly 
+project. Containerization, VM's and other new developments in the world of
+devops have challenged how we release software but none have significantly
 challenged how we build it like serverless.
 
 Serverless, as a paradigm, is confusing. We know it's running on someone's
@@ -42,18 +42,17 @@ quotes such as this:
 > The one exception, of course, being how everybody seems to have come together
 > around containers. So now everybody’s excited about containers, but the
 > battle’s shifted up. So you’ve won the battle, but lost the war. --
-> [https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147](Simon
-> Wardley)
+> [Simon Wardley](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
 
 The argument here is that serverless and containerization are fundamentally
-different technologies and that one will win out over another. Serverless 
-however, is more of a paradigm. It's a development practice, a way of writing 
-code and deploying it not tied to one specific implementation. Containerization 
+different technologies and that one will win out over another. Serverless
+however, is more of a paradigm. It's a development practice, a way of writing
+code and deploying it not tied to one specific implementation. Containerization
 on the other hand is merely a way of packaging code.
 
-What we should be thinking about is combining the serverless paradigm of 
-infinite scaling, simple development and deployment with containerization. This 
-is how I think about serverless. There are a set of different projects that 
+What we should be thinking about is combining the serverless paradigm of
+infinite scaling, simple development and deployment with containerization. This
+is how I think about serverless. There are a set of different projects that
 are doing this:
 
 * [https://kubeless.io/](Kubeless)
@@ -66,3 +65,8 @@ the best of both worlds, I want to write my Django application, containerize it
 and have it scale infinitely. I also want to write a simple API, maybe only 10
 lines of Javascript, and deploy it through the same platform.
 
+
+### My Take
+
+I've written a simple project to test the waters with serverless, if you are
+interested, give it a look over [here](https://kubefuncs.com).
