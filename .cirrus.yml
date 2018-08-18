@@ -1,0 +1,8 @@
+container:
+  image: ruby:2.4.4
+
+build_task:
+  bundle_cache:
+    folder: /usr/local/bundle
+    fingerprint_script: cat Gemfile.lock
+    populate_script: bundle install
