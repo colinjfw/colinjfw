@@ -1,7 +1,5 @@
-start:
-	@docker build -t blog .
-
 shell:
+	@docker build -t blog .
 	@docker run --rm -it \
 		--name blog \
 		--workdir /usr/src/app \

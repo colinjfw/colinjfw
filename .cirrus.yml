@@ -1,8 +1,9 @@
 container:
-  image: ruby:2.4.4
+  image: coldog/ruby-s3-website
 
 build_task:
   bundle_cache:
     folder: /usr/local/bundle
     fingerprint_script: cat Gemfile.lock
     populate_script: bundle install
+  push_script: make release
