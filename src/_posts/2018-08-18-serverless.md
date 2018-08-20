@@ -55,9 +55,9 @@ infinite scaling, simple development and deployment with containerization. This
 is how I think about serverless. There are a set of different projects that
 are doing this:
 
-* [https://kubeless.io/](Kubeless)
-* [https://fission.io/](Fission)
-* [https://cloud.google.com/knative/](Knative)
+* [Kubeless](https://kubeless.io/)
+* [Fission](https://fission.io/)
+* [Knative](https://cloud.google.com/knative/)
 
 Most of these are based on Kubernetes but they don't have to be. These projects
 to me represent the desired state of where development should be going. I want
