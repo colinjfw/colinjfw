@@ -3,11 +3,9 @@ url: "https://kodebrew.com"
 bio: Colin Walker | Team lead at Sendwithus. INTJ. Code, devops and coffee.
 
 navigation_pages:
-  - name: Home
-    link: /
   - name: About
     link: /about
-  - name: Reading List
+  - name: Reading
     link: /reading
   - name: Github
     link: https://github.com/coldog
