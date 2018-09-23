@@ -6,8 +6,6 @@ description: |
   paradigm and platform going?
 ---
 
-# Where is Serverless Going
-
 Serverless as an idea has an incredible amount of hype and a huge amount of
 tools around it right now. But where is serverless going? How will it evolve
 over the next 5 to 10 years?
