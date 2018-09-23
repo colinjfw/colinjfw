@@ -23,7 +23,10 @@ platform overall.
 
 ### 1. Event driven application architectures will become normal and easier
 
-Event driven application architectures are effective for developing generic
+Event driven application architectures are effective for developing generic and
+composable applications. They fit well in distributed systems and with
+serverless functions. These applications will have better tooling and more
+support overall.
 
 ### 2. Function composition components will emerge
 
@@ -37,7 +40,7 @@ paradigms.
 
 These may even be in the form of new languages. Right now this is done using
 static configuration languages like yaml, but the
-[https://ballerina.io/](ballerina) programming language is a very interesting 
+[ballerina](https://ballerina.io) programming language is a very interesting 
 example of what is to come.
 
 ### 3. Kubernetes will probably stay but be heavily hidden
