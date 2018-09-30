@@ -37,6 +37,11 @@ layout: main
 * [Instagram: Django tuning](https://engineering.instagram.com/web-service-efficiency-at-instagram-with-python-4976d078e366) -- Jun 21, 2016
 * [High scalability: WhatsApp architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) -- Feb 26, 2014
 
+### Event Sourcing
+
+* [Long Running Processes with Event Sourcing and CQRS](https://medium.com/@drozzy/long-running-processes-event-sourcing-cqrs-c87fbb2ca644) -- Aug 16, 2016
+* [Sagas, Event Sourcing, and Failed Commands](https://blog.jonathanoliver.com/sagas-event-sourcing-and-failed-commands/) -- Dec 25, 2010
+
 ## Databases
 
 * [Instagram: Postgres performance](https://engineering.instagram.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb) -- Jan 17, 2013
