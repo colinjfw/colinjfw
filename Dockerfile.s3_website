@@ -1,5 +1,0 @@
-FROM ruby:2.4.4
-RUN apt-get update && \
-  apt-get install -y default-jdk && \
-  gem install s3_website && \
-  s3_website install
