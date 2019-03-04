@@ -1,0 +1,21 @@
+title: colinfjw
+url: "https://blog.colinjfw.com"
+bio: Colin Walker | Team lead at Sendwithus. Code, devops and coffee.
+
+navigation_pages:
+  - name: About
+    link: /about
+  - name: Reading
+    link: /reading
+  - name: Github
+    link: https://github.com/coldog
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/cjwalker270
+  - name: Twitter
+    link: https://www.twitter.com/kodebrew
+
+permalink: pretty
+
+markdown: kramdown
+gems:
+  - jekyll-feed
