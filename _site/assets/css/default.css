@@ -1,0 +1,36 @@
+a.ghost, a.gray, a.disabled {
+  border-radius: 2px;
+  padding: 0.4em 0.8em; }
+
+a.ghost {
+  background: #68f;
+  box-shadow: 0 0 0 2px #68f inset;
+  color: white;
+  transition: 0.1s; }
+
+a.ghost:hover {
+  background: transparent;
+  color: #68f; }
+
+a.gray, a.disabled {
+  background: rgba(148, 148, 148, 0.08);
+  transition: background, 0.2s; }
+
+a.gray:hover, a.disabled:hover {
+  color: inherit; }
+
+a.gray:hover {
+  background: rgba(148, 148, 148, 0.2); }
+
+body > header, article, body > footer {
+  padding: 1.5em calc(27.5% - 5rem); }
+
+article, body > footer {
+  border-top: 1px solid rgba(148, 148, 148, 0.12); }
+
+article {
+  background: rgba(148, 148, 148, 0.02); }
+
+body > footer {
+  background: rgba(148, 148, 148, 0.06);
+  color: #949494; }

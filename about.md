@@ -1,6 +1,5 @@
 ---
-permalink: "/about/"
-layout: main
+layout: page
 ---
 
 I am a self taught software developer, a sailor and an avid reader.

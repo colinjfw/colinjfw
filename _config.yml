@@ -1,21 +1,29 @@
 title: colinfjw
-url: "https://blog.colinjfw.com"
-bio: Colin Walker | Team lead at Sendwithus. Code, devops and coffee.
+author: "Colin Walker"
+url: "https://www.colinjfw.com"
+description: Colin Walker | Team lead at Sendwithus. Code, devops and coffee.
 
-navigation_pages:
-  - name: About
-    link: /about
-  - name: Reading
-    link: /reading
-  - name: Github
-    link: https://github.com/coldog
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/cjwalker270
-  - name: Twitter
-    link: https://www.twitter.com/kodebrew
+icons:
+  envelope: "mailto:colinwalker270@gmail.com"
+  twitter: "https://www.twitter.com/colinjfw"
+  github: "https://github.com/coldog"
+  book: "/reading"
+  rss: "feed.xml"
 
-permalink: pretty
+# Jekyll settings
+permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
+excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
-markdown: kramdown
-gems:
+# Page settings
+show_excerpts: true          # show article previews on the home page instead of headlines
+hide_title: false            # remove site heading in the header
+post_footer: true            # show previous and next links at the end of each post
+date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
+
+# Theme settings
+style: contrast              # choose between "default", "contrast" and "minimal"
+dark_theme: false            # enables dark mode
+
+plugins:
   - jekyll-feed
+  - jekyll-default-layout
