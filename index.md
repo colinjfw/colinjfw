@@ -10,6 +10,6 @@ I enjoy working on products end to end, from design to the backend implementatio
 
 In my personal projects I focus on developer tools, learning Golang and trying my hand at distributed systems.
 
-I have been a sailing instructor for over 6 years and enjoy sailing whenever I can. I try and keep my passion for teaching throughout my work and enjoy working on productive and fun teams. I occasionally tutor at Lighthouse Labs a coding bootcamp.
+I have been a sailing instructor for over 6 years and enjoy sailing whenever I can. I try and keep my passion for teaching throughout my work and enjoy working on productive and fun teams. I occasionally tutor at Lighthouse Labs.
 
 ![me](/assets/images/me.jpg)
