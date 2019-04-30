@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Colin Walker
+## Welcome to Colin Walker's site
 
 I am a full stack web and devops developer. I currently work at Sendwithus as
 a development manager for our backend and infrastructure teams. I've worked to
