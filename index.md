@@ -5,10 +5,10 @@ layout: home
 ## Colin Walker
 
 I am a full stack web and devops developer. I currently work at Sendwithus as a
-manager for our backend and infrastructure teams. I've worked to scale out a
+manager for our backend and infrastructure teams. I’ve worked to scale out a
 high throughput email delivery platform, built a Kubernetes cluster for an
-enterprise product, managed Cassandra databases and built Ruby on Rails
-applications for a few different startups.
+enterprise product, managed Cassandra databases and built production Ruby on
+Rails applications.
 
 My [GitHub](https://github.com/ColDog) is full of failed projects and random
 ideas.I love to play with distributed systems, developer CI/CD tools, building
