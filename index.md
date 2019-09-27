@@ -1,6 +1,10 @@
 ---
-layout: home
+layout: default
 ---
+
+<div class="text-center" style="margin-top: 1em;">
+  <img src="assets/images/me.jpg" alt="Profile pic" style="border: thick solid #eee; width: 200px; height: 200px; border-radius: 100px; margin: auto;">
+</div>
 
 ## Colin Walker
 
@@ -18,7 +22,3 @@ databases and sometimes hacking my own fitbit.
 I have been a sailing instructor for over 6 years and enjoy sailing whenever I
 can. I try and keep my passion for teaching throughout my work and enjoy
 working on productive and fun teams. I occasionally tutor at Lighthouse Labs.
-
-![me](/assets/images/me.jpg)
-
-If you want to know what working with me will be like, [go here](/about).

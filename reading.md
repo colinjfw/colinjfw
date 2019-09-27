@@ -1,6 +1,6 @@
 ---
 permalink: "/reading/"
-layout: page
+layout: default
 ---
 
 ## Devops

@@ -8,7 +8,6 @@ icons:
   twitter: "https://www.twitter.com/colinjfw"
   github: "https://github.com/colinjfw"
   book: "/reading"
-  rss: "feed.xml"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -20,10 +19,5 @@ hide_title: false            # remove site heading in the header
 post_footer: true            # show previous and next links at the end of each post
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
-# Theme settings
-style: contrast              # choose between "default", "contrast" and "minimal"
-dark_theme: false            # enables dark mode
-
 plugins:
-  - jekyll-feed
-  - jekyll-default-layout
+  - jekyll-seo-tag
