@@ -24,3 +24,9 @@ can. I try and keep my passion for teaching throughout my work and enjoy
 working on productive and fun teams. I occasionally tutor at Lighthouse Labs.
 
 I write on Medium at [https://medium.com/@colinjfw](https://medium.com/@colinjfw).
+
+### Projects I'm working on
+
+- [Deliverybot](https://deliverybot.dev): Simple GitHub deployment automation.
+- [Battlesnake](https://battlesnake.com): Battlesnake is a fun engaging
+  progrmamming game.
