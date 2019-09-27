@@ -7,7 +7,7 @@ icons:
   envelope: "mailto:me@colinjfw.com"
   twitter: "https://www.twitter.com/colinjfw"
   github: "https://github.com/colinjfw"
-  book: "/reading"
+  book: https://medium.com/@colinjfw
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/

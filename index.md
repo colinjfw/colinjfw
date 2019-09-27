@@ -22,3 +22,5 @@ databases and sometimes hacking my own fitbit.
 I have been a sailing instructor for over 6 years and enjoy sailing whenever I
 can. I try and keep my passion for teaching throughout my work and enjoy
 working on productive and fun teams. I occasionally tutor at Lighthouse Labs.
+
+I write on Medium at [https://medium.com/@colinjfw](https://medium.com/@colinjfw).
