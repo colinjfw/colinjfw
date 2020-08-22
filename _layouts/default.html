@@ -19,7 +19,7 @@
 
 <main>
   {{ content }}
-</div>
+</main>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124034151-3"></script>
 <script>
@@ -29,5 +29,10 @@
 
   gtag('config', 'UA-124034151-3');
 </script>
+
+<footer>
+  © Colin Walker 2020 {% for link in site.icons %} | <a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}
+  | All opinions expressed on this blog are my own and not that of my employer 
+</footer>
 </body>
 </html>

@@ -14,6 +14,29 @@ header > h1 {
 header > nav > .icon {
   padding: 0.8em;
 }
+footer > .icon {
+  padding: 0.3em;
+}
+footer {
+  background-color: #eee;
+  padding: 3em;
+  font-size: 0.8em;
+  text-align: left;
+}
+
+.post-list-title {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.post-list-sub {
+  padding-top: 0;
+  margin-top: 0;
+  font-size: 0.8em;
+}
+.post-list-item {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
 
 nav {
   display: block;
@@ -23,6 +46,8 @@ main {
   margin: auto;
   max-width: 800px;
   padding-bottom: 5em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 a.selected, a:hover {
