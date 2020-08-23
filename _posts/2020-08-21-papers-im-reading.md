@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Causal Consistency: A brief introduction"
+title: "Papers I have been Reading"
 summary: As software developers caught up in the minutiae of day to day development we often lose sight of some of the cutting edge research in our field. I have been doing a paper tour over the last few months reading key papers in the history of computer science and new ones as well, here's a list.
 ---
 
